@@ -18,19 +18,69 @@ If you or your institution wishes to use this lab on a regular basis in your cou
 Labs
 ----
 
-| LABS |
-| --- |
-| Lab 1 ([PDF]({{< baseurl >}}/resources/mit6_012s09_lab01)) |
-| Lab 2 ([PDF]({{< baseurl >}}/resources/mit6_012s09_lab02)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1 ([PDF]({{< baseurl >}}/resources/mit6_012s09_lab01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2 ([PDF]({{< baseurl >}}/resources/mit6_012s09_lab02))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Design Project
 --------------
 
-| PROJECT FILES |
-| --- |
-| Project instructions ([PDF]({{< baseurl >}}/resources/mit6_012s09_project)) |
-| LTSpice quickstart guide ([PDF]({{< baseurl >}}/resources/mit6_012s09_prj02_res_ltspe)) |
-| HSPICE quickstart guide ([PDF]({{< baseurl >}}/resources/mit6_012s09_prj01_res_hspe)) |
-| Models ([SUB](/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-spring-2009/projects/models.sub)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECT FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project instructions ([PDF]({{< baseurl >}}/resources/mit6_012s09_project))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LTSpice quickstart guide ([PDF]({{< baseurl >}}/resources/mit6_012s09_prj02_res_ltspe))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HSPICE quickstart guide ([PDF]({{< baseurl >}}/resources/mit6_012s09_prj01_res_hspe))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Models ([SUB](/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-spring-2009/projects/models.sub))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 LTSpice can be [downloaded from here](http://www.linear.com/designtools/software/ltspice.jsp).
